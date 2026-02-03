@@ -1,0 +1,5 @@
+{
+  "name": "AGD - Air Global Dashboard",
+  "description": "A sophisticated real estate analysis dashboard for short-term rental investments, featuring financial modeling, sensitivity analysis, and AI-powered location insights using Google Maps grounding.",
+  "requestFramePermissions": []
+}
